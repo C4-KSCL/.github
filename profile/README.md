@@ -9,43 +9,18 @@
 |분류 | Back-end | Front-end | Back-end | Front-end |
 |역할 | Chat, Friend, FCM | Auth, Matching, Profile, SC | Chat, Friend, FCM, Admin | Auth, Matching, Profile, SC, Nginx, Git action |
 
-## 시스템 아키텍쳐
+## KSCL
 
-![시스템 아키텍쳐](/assets/architecture.jpeg)
+계명대학교 컴퓨터공학과 (2019.03 ~ )
+계명대학교 창업동아리 (2022.10 ~ )
 
-## 기술 스택
+## 공모전
 
-### Front-end
-<p align="center">
-    <img src="https://skillicons.dev/icons?theme=light&i=html,css,js,react" />
-</p>
+2023 지산학 협력 온기스쿨 in 대구 동성로 - 지역 협력상 (2023.12.03 (재)한국청년기업가정신재단)
+4차산업혁명 기반 창의융합형 공모전 아이디어 부문 - 우수상 (2023.11.24 한국정보통신보안윤리학회)
+기술 및 로컬 창업아이디어 공모전 - 장려상 (2023.07.20 계명대학교 산학인재원)
 
-### Back-end
-<p align="center">
-    <img src="https://skillicons.dev/icons?theme=light&i=spring,hibernate,mysql,django,postgresql" />
-</p>
+## 해커톤
 
-### Database
-<p align="center">
-    <img src="https://skillicons.dev/icons?theme=light&i=mysql,postgresql,redis" />
-</p>
+2023 K-해커톤 영남권 참여 - 농부랑(농산물 직거래 플랫폼)
 
-### Deployment
-<p align="center">
-    <img src="https://skillicons.dev/icons?theme=light&i=aws,docker,nginx" />
-</p>
-
-# 서비스
-
-## 데모 영상
-### 데모 영상
-[![ON & OFF](http://img.youtube.com/vi/IlgYfPwYH28/0.jpg)](https://www.youtube.com/watch?v=IlgYfPwYH28)  
-
-### 최종 데모 영상
-[![ON & OFF](http://img.youtube.com/vi/B8RTkm_VYdI/0.jpg)](https://youtu.be/B8RTkm_VYdI?si=rZCxWNMMjiypfWIk) 
-
-## 유저 페이지
-...
-
-## 사장님 페이지
-...
